@@ -78,6 +78,9 @@
  * *`SEPARADOR:`* Es el caracter que permite dividir los diferentes campos que pueda tener una fuente de datos. Los separadores más usados son las comas y los puntos y coma; también se pueden utilizar otros como la barra vertical o “pipe”.
  
  ### **Importación de diferentes tipos de datos**
+ > Interfaz de usuario de Power Query
+ >>Link 1 [Microsoft](https://learn.microsoft.com/es-es/power-query/power-query-ui).
+ 
  > **Video sobre cómo importar datos de Excel a Power BI**
  >>Link 1 [Youtube](https://youtu.be/uHC7OHd0O1Y).
 
@@ -90,5 +93,16 @@
 
  > **Cómo importar datos de un archivo delimintado por un *`Caracter especial` y `Página web`***
  ![](delimintadoCaracterespecial.jpg "")
- > Los demás pasos en el siguiente pdf
+  > Los demás pasos en el siguiente pdf
  >>Link [PDF](https://github.com/shurming01/Inteligencia-de-negocios-con-Power-Bi/blob/main/ImportaciónDatosCarcteresEspecialesyweb.pdf).
+
+ ### **Saber 2: Transformaciones sobre los datos recuperados por medio de Power Query**
+
+ Para facilitar nuestro aprendizaje, comenzaremos con los elementos de transformación simple, pasando por la limpieza y generación de columnas a partir del tipo de datos, continuando con la realización de columnas personalizadas y finalizando con dos poderosos tips para potenciar la consulta y consolidación de datos.
+ > **Video sobre problema propuesto**
+ >>Link [Youtube](https://youtu.be/s0zoUcCuZy4).
+
+ > **Video sobre limpieza de datos de problema propuesto**
+ >>Link [Youtube](https://youtu.be/s0zoUcCuZy4).
+
+
