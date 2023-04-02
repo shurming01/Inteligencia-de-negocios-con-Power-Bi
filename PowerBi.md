@@ -5,6 +5,12 @@
 ![](creatividad-para-web-power-bi-ab-bajo-peso-542x377-1.png "")
 
 # **Introducción** [**Mooc**](https://www.techtarget.com/whatis/definition/massively-open-online-course-MOOC).
+> **Introducción al análisis de datos de Microsoft**
+ >>Link [ Curso Microsoft](https://learn.microsoft.com/es-es/training/paths/data-analytics-microsoft/).
+ Para llevar a cabo el siguiente curso se debe tener muy presente el curso que tiene disponible Microsoft y como lo desarrolla. 
+ Para poder complementarlo de una manera más efectiva con el sigueinte curso, el cual pretende ser más amistoso con las personas que no tienen mucho conocimiento del mundo del analista de datos.
+
+ 
 
 
 ### **¿Qué es Power Bi?**
@@ -28,6 +34,8 @@
  ![](image.png "")
 
  De acuerdo con la imagen anterior, fijate que se requiere primero obtener los datos para contar con toda la información necesaria, luego se organiza de tal manera que facilite el análisis, después viene como tal la parte de analizar la información obtenida y luego se proporcionan los resultados del análisis.
+
+ El análisis de datos es el proceso de identificar, limpiar, transformar y modelar los datos para detectar información significativa y útil. Después, los datos se convierten en una historia a través de informes para el análisis con el fin de admitir el proceso crítico de toma de decisiones.
 
  ### **¿Por qué es importante la inteligencia de negocios?**
 
