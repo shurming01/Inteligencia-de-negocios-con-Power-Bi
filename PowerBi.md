@@ -47,8 +47,8 @@
    En esta sección, aprendemos sobre el contexto de Power BI y cómo descargarlo y usarlo. Power BI fue creado por Microsoft para integrar diferentes tecnologías, como  `Power Query y Power Pivot` que estaban disponibles en `Excel`, dentro de una plataforma que podría tomar datos de fuentes originales, realizar diversas transformaciones y cálculos, y finalmente presentar la información en gráficos dinámicos y visualmente atractivos. Asi es que nace Power BI Desktop en 2015, se puede [*descargar gratis*](https://onx.la/4e5e5) y solo está disponible en Windows. Una vez instalado, ofrece características como conectarse a varias fuentes de datos, crear modelos para diferentes relaciones, generar informes personalizables y publicar esos informes dentro de un entorno corporativo seguro o para que cualquiera pueda acceder a ellos en la web. Con diferentes tipos de visualizaciones, Power BI se puede usar para generar varios informes que ayudan a las empresas a comprender mejor sus datos.
 
 # Módulo 1: Conectando y transformando insumos en información
-> Video sobre Elementos de Power BI
-  >>Link [Youtube](https://youtu.be/W6AQrpC_Q1Y ).
+ > Video sobre Elementos de Power BI
+ >>Link [Youtube](https://youtu.be/W6AQrpC_Q1Y ).
 
  **Propósito del Módulo:** Precisar el componente Power Query en la realización de conexiones efectivas a diferentes orígenes de datos.
 
@@ -83,7 +83,12 @@
 
  >>Link 2 [Youtube](https://youtu.be/jhsHCZZXoz4).
 
- > **Cómo importar datos de un archivo delimintado por *`Comas o Punto y Coma`* a Power BI**
+ > **Cómo importar datos de un archivo delimintado por *`Comas o Punto y Coma`***
  ![](Captu238.jpg "")
+ > Los demás pasos en el siguiente pdf
+ >>Link [PDF](https://github.com/shurming01/Inteligencia-de-negocios-con-Power-Bi/blob/main/ImportaciónDatosComaoPuntoyComa.pdf ).
 
- 
+ > **Cómo importar datos de un archivo delimintado por un *`Caracter especial`,`Página web`***
+ ![](delimintadoCaracterespecial.jpg "")
+ > Los demás pasos en el siguiente pdf
+ >>Link [PDF](https://github.com/shurming01/Inteligencia-de-negocios-con-Power-Bi/blob/main/ImportaciónDatosComaoPuntoyComa.pdf ).
