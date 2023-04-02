@@ -78,7 +78,12 @@
  * *`SEPARADOR:`* Es el caracter que permite dividir los diferentes campos que pueda tener una fuente de datos. Los separadores más usados son las comas y los puntos y coma; también se pueden utilizar otros como la barra vertical o “pipe”.
  
  ### **Importación de diferentes tipos de datos**
- > Video sobre Cómo importar datos de Excel a Power BI
+ > **Video sobre cómo importar datos de Excel a Power BI**
  >>Link 1 [Youtube](https://youtu.be/uHC7OHd0O1Y).
 
  >>Link 2 [Youtube](https://youtu.be/jhsHCZZXoz4).
+
+ > **Cómo importar datos de un archivo delimintado por *`Comas o Punto y Coma`* a Power BI**
+ ![](Captu238.jpg "")
+
+ 
