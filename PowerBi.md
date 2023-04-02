@@ -88,7 +88,7 @@
  > Los demás pasos en el siguiente pdf
  >>Link [PDF](https://github.com/shurming01/Inteligencia-de-negocios-con-Power-Bi/blob/main/ImportaciónDatosComaoPuntoyComa.pdf ).
 
- > **Cómo importar datos de un archivo delimintado por un *`Caracter especial`,`Página web`***
+ > **Cómo importar datos de un archivo delimintado por un *`Caracter especial` y `Página web`***
  ![](delimintadoCaracterespecial.jpg "")
  > Los demás pasos en el siguiente pdf
- >>Link [PDF](https://github.com/shurming01/Inteligencia-de-negocios-con-Power-Bi/blob/main/ImportaciónDatosComaoPuntoyComa.pdf ).
+ >>Link [PDF](https://github.com/shurming01/Inteligencia-de-negocios-con-Power-Bi/blob/main/ImportaciónDatosCarcteresEspecialesyweb.pdf).
