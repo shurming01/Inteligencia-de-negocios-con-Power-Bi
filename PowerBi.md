@@ -107,7 +107,7 @@
  ### **Saber 2: Transformaciones sobre los datos recuperados por medio de Power Query**
 
  Para facilitar nuestro aprendizaje, comenzaremos con los elementos de transformación simple, pasando por la limpieza y generación de columnas a partir del tipo de datos, continuando con la realización de columnas personalizadas y finalizando con dos poderosos tips para potenciar la consulta y consolidación de datos.
- > **Video sobre problema propuesto y materiales**
+ > **`Video sobre problema propuesto y materiales`**
  >>Link [Materiales de los Ejmplos](https://github.com/shurming01/Inteligencia-de-negocios-con-Power-Bi/blob/main/mod1_saber2_materiales_de_ejemplo.zip).
  
  >>Link [Youtube](https://youtu.be/s0zoUcCuZy4).
@@ -126,3 +126,5 @@
 
  >**`Tutorial tips`**
  >>Link 3 [Youtube](https://youtu.be/ac5wJfpv-I0).
+
+# **Módulo 2: Expresiones personalizadas para la generación de columnas y medidas**
