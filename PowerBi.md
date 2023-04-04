@@ -114,3 +114,10 @@
 
  > **Video sobre limpieza de datos del problema propuesto**
  >>Link [Youtube](https://youtu.be/zdi7NQdWXbs).
+
+ > **Columnas personalizadas y cálculos avanzados por medio de Power Query usando el lenguaje M**
+ >>Link 1 [Youtube](https://youtu.be/ObGUhFYTFPg).
+ >
+ >>Link 2 [Youtube](https://youtu.be/q8m5N3g599Y).
+ >
+ >>Link 3 [Youtube](https://youtu.be/ac5wJfpv-I0).
