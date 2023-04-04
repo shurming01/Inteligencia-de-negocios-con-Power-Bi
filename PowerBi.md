@@ -112,12 +112,17 @@
  
  >>Link [Youtube](https://youtu.be/s0zoUcCuZy4).
 
- > **Video sobre limpieza de datos del problema propuesto**
+ > **`Video sobre limpieza de datos del problema propuesto`**
  >>Link [Youtube](https://youtu.be/zdi7NQdWXbs).
 
  > **Columnas personalizadas y cálculos avanzados por medio de Power Query usando el lenguaje M**
+  >>Link [Materiales del ejemplo](https://github.com/shurming01/Inteligencia-de-negocios-con-Power-Bi/blob/main/mod1_saber3_materiales_de_ejemplo.zip)
+
+ > **`Anexar datps`**
  >>Link 1 [Youtube](https://youtu.be/ObGUhFYTFPg).
- >
+
+ > **`Tutorial Generar Columnas`**
  >>Link 2 [Youtube](https://youtu.be/q8m5N3g599Y).
- >
+
+ >**`Tutorial tips`**
  >>Link 3 [Youtube](https://youtu.be/ac5wJfpv-I0).
